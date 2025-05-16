@@ -4,3 +4,4 @@
 .venv/
 dist/
 .cache/
+.pytest_cache/
